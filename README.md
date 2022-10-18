@@ -5,9 +5,9 @@
 ---------------
 ## Folder Contents ##
 
-* The 'httpsServer' folder contains the HTTPS Server Python code file and the related certificates.
+* The [httpsServer](https://github.com/KurtL33/dissertationCodeFiles/tree/main/httpsServer) folder contains the HTTPS Server Python code file and the related certificates.
 
-* The 'modified_hass_code_files' folder contains a partial fork of the Home Assistant repository specific to the Python files which were altered to execute the Proof of Concept attacks.
+* The [modified_hass_code_files](https://github.com/KurtL33/dissertationCodeFiles/tree/main/modified_hass_code_files) folder contains a partial fork of the Home Assistant repository specific to the Python files which were altered to execute the Proof of Concept attacks.
 
 
 ---------------
