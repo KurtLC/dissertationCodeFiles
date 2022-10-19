@@ -2,7 +2,7 @@
 
 *This folder contains the modified Home Assistant (HA) code files that were used to execute the Proof of Concept (PoC) attacks.*
 
-
+---------------
 ## Folder Contents ##
 
 ### The three folders are -
