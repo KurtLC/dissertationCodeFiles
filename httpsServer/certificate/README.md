@@ -1,7 +1,8 @@
 # certificate #
 
 *This folder contains the certificate files for the HTTPS Server.*
-
+<br />
+<br />
 
 * The certificate files were generated using the OpenSSL Toolkit version 3.0.5 (*Installation for Windows: https://slproweb.com/download/Win64OpenSSL-3_0_5.exe*)
 <br />
