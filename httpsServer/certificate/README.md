@@ -4,7 +4,7 @@
 <br />
 
 ---------------
-* The certificate files were generated using the **OpenSSL Toolkit** version 3.0.5 (*Installation for Windows: https://slproweb.com/download/Win64OpenSSL-3_0_5.exe*)
+* The certificate files were generated using the **OpenSSL Toolkit** version 3.0.5 (*Installation for Windows: https://slproweb.com/download/Win64OpenSSL-3_0_5.exe*) however this version is not recommended due to a recent vulnerability finding as per [CVE-2022-3602](https://nvd.nist.gov/vuln/detail/CVE-2022-3602).
 <br />
 
 *  To **generate the certificate** the following steps were followed -
