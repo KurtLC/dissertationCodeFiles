@@ -26,13 +26,13 @@
       * https://github.com/home-assistant/core/tree/2022.7.6/homeassistant
 <br />
 
-* The **TP-Link** release used for the project was the 'python-tplink' Python library version 0.5.0:
+* The last **TP-Link** release used for the project was the 'python-tplink' Python library version 0.5.0:
    * References:
       * https://python-kasa.readthedocs.io/en/latest
       * https://github.com/python-kasa/python-kasa/tree/0.5.0
 <br />
 
-* The **Yeelight** release used for the project was the 'python-yeelight' Python library version 0.7.10:
+* The last **Yeelight** release used for the project was the 'python-yeelight' Python library version 0.7.10:
    * References:
       * https://yeelight.readthedocs.io/en/latest
       * https://gitlab.com/stavros/python-yeelight/-/tree/v0.7.10
