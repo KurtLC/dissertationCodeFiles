@@ -20,7 +20,7 @@
       * https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe *[**Note**: this installation is for Windows]*  
 <br />
 
-* The **Home Assistant** release used for the project was the 'homeassistant' Python library version 2022.7.6:
+* The last **Home Assistant** release used for the project was the 'homeassistant' Python library version 2022.7.6:
    * References:
       * https://developers.home-assistant.io
       * https://github.com/home-assistant/core/tree/2022.7.6/homeassistant
